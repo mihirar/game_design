@@ -77,3 +77,4 @@ crashlytics-build.properties
 
 #doesn't upload store assets as they are in google drive
 /Assets/RPGTinyHeroWavePolyart/
+/Assets/Low Poly Fire/
